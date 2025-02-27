@@ -2,7 +2,7 @@
 # Здесь размещаются проекты курса по ML
 
 ## Описание
-- _HW №_* [AI_HW4_woodenML_base_.ipynb](AI_HW4_woodenML_base_.ipynb)
+- **HW №4** [AI_HW4_woodenML_base_.ipynb](AI_HW4_woodenML_base_.ipynb)
   - Дерево [AI_HW4_Desicion_tree_.jpeg](AI_HW4_Desicion_tree_.jpeg)
   - Модель [AI_HW4_DT_.pkl](AI_HW4_DT_.pkl)
   - Модель [AI_HW4_best_random_forest_.pkl](AI_HW4_best_random_forest_.pkl)
