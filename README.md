@@ -7,4 +7,4 @@
   - Модель [AI_HW4_DT_.pkl](AI_HW4_DT_.pkl)
   - Модель [AI_HW4_best_random_forest_.pkl](AI_HW4_best_random_forest_.pkl)
 - Домашнее задание №5 [AI_HW5_boosting_base_.ipynb](AI_HW5_boosting_base_.ipynb)
-- Домашнее задание №6 [AI_HW6_uplift.ipynb](AI_HW6_uplift.ipynb)
+- Домашнее задание №6. Задание по Uplift-моделированию [AI_HW6_uplift.ipynb](AI_HW6_uplift.ipynb)
