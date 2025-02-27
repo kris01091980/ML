@@ -2,5 +2,5 @@
 # Здесь размещаются проекты курса по ML
 
 ## Описание
-- Домашнее задание №1 [](HSE_RecSys_HW1.ipynb)
-- Домашнее задание №2 [HSE_RecSys_HW2.ipynb](HSE_RecSys_HW2.ipynb)
+- Домашнее задание №1 [AI_HW5_boosting_base_.ipynb](AI_HW5_boosting_base_.ipynb)
+- Домашнее задание №6 [AI_HW6_uplift.ipynb](AI_HW6_uplift.ipynb)
