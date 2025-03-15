@@ -2,4 +2,4 @@
 
 ## Описание
 - **HW №7**. Fraud Detection Competition [HW7/ML_AI24_HT7.ipynb](ML_AI24_HT7.ipynb)
-  - Чать файлов выложил отдельно [AI_HW4_Desicion_tree_.jpeg](AI_HW4_Desicion_tree_.jpeg)
+  - Час больших файлов выложил отдельно (датасет, train и test) [https://drive.google.com/drive/folders/13mpZuj52_baLahY4e_U0lKcWwATKsMch?usp=sharing](здесь)
